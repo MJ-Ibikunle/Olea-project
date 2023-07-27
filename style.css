@@ -341,7 +341,7 @@ section{
     position: relative;
 }
 #featured-on{
-    background-color: white;
+    background-color: #f5f5f5;
     padding-inline: 1rem;
     position: absolute;
     top: -8%;
